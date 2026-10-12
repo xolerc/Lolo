@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xolerc.github.io/Lolo/sitemap.xml
